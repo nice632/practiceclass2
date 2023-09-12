@@ -1,0 +1,6 @@
+:root{
+    ### Primary
+    
+    --Cyan: hsl(179, 62%, 43%);
+    --Bright-Yellow: hsl(71, 73%, 54%);
+}
